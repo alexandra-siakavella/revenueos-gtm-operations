@@ -5,3 +5,4 @@ __pycache__/
 .env
 app/revenueos.db
 .DS_Store
+revenueos.db
